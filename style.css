@@ -1,0 +1,54 @@
+body{
+    font-family: sans-serif;
+    background-color: ;
+    text-align: center;
+}
+
+nav{
+    background-color:whitesmoke ;
+    margin: 15px;
+    padding: 20px;
+    
+}
+main img{
+    width: 100%;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 15px;
+    padding: 15px;
+    color: black;
+    background-color:beige ;
+    border-radius: 20px;
+    font-weight: bolder;
+
+}
+
+.contacts{
+    color: red;
+    background-color: lightblue;   
+    text-decoration: none;
+}
+
+h1, h2{
+
+}
+
+main p{
+    text-align: justify;
+    width: 80%;
+    margin-left: 10%;
+}
+
+main img{
+
+}
+
+footer{
+
+}
+
+footer p{
+
+}
